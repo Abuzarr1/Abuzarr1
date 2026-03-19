@@ -13,7 +13,7 @@ I'm a CS student diving deep into the world of **Data Science** — learning how
 - 🔭 Currently working on **Skylytics** — an AI-powered flight delay prediction system (FYP)
 - 📚 Learning: Machine Learning · Data Visualization · Python · SQL · Statistical Analysis
 - 🌱 Following the **CRISP-DM** workflow to build real-world data pipelines
-- 💡 Interested in: Predictive Modeling · NLP · Backend Engineering · MLOps
+- 💡 Interested in: Predictive Modeling · NLP · MLOps
 - 📍 Based in **Lahore, Pakistan**
 
 ---
@@ -32,14 +32,25 @@ I'm a CS student diving deep into the world of **Data Science** — learning how
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-EC4E20?style=flat&logo=xgboost&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
-**Backend & DevOps**
+---
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+## 🎓 Certifications — W3Schools
+
+> 🏷️ Profile: [w3profile.com/LogicBear3593](https://www.w3profile.com/LogicBear3593/)
+
+| Course | Platform |
+|--------|----------|
+| 🐍 Python | W3Schools |
+| 🗄️ SQL | W3Schools |
+| 📊 Data Science | W3Schools |
+| 📈 Statistics | W3Schools |
+| 🤖 Machine Learning | W3Schools |
+
+*(Update this table to match only the certificates you've actually completed)*
 
 ---
 
@@ -47,7 +58,7 @@ I'm a CS student diving deep into the world of **Data Science** — learning how
 
 ### ✈️ [Skylytics — Flight Delay Prediction](https://github.com/Abuzarr1)
 > AI-powered system that predicts flight delays using XGBoost.  
-> Stack: Python · FastAPI · PostgreSQL · Redis · Docker · Next.js
+> Stack: Python · Scikit-Learn · XGBoost · Pandas · FastAPI
 
 ---
 
@@ -62,6 +73,7 @@ I'm a CS student diving deep into the world of **Data Science** — learning how
 
 ## 📫 Let's Connect
 
+[![W3Schools](https://img.shields.io/badge/W3Schools-04AA6D?style=flat&logo=w3schools&logoColor=white)](https://www.w3profile.com/LogicBear3593/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link-here)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
 
