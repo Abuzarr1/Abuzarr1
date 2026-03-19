@@ -13,7 +13,7 @@ I'm a CS student diving deep into the world of **Data Science** — learning how
 - 🔭 Currently working on **Skylytics** — an AI-powered flight delay prediction system (FYP)
 - 📚 Learning: Machine Learning · Data Visualization · Python · SQL · Statistical Analysis
 - 🌱 Following the **CRISP-DM** workflow to build real-world data pipelines
-- 💡 Interested in: Predictive Modeling · NLP · MLOps
+- 💡 Interested in: Predictive Modeling · Data Cleaning · Exploratory Data Analysis (EDA)
 - 📍 Based in **Lahore, Pakistan**
 
 ---
@@ -74,8 +74,8 @@ I'm a CS student diving deep into the world of **Data Science** — learning how
 ## 📫 Let's Connect
 
 [![W3Schools](https://img.shields.io/badge/W3Schools-04AA6D?style=flat&logo=w3schools&logoColor=white)](https://www.w3profile.com/LogicBear3593/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link-here)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abuzar-rashid-8a8ab6281)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abuzarr819@gmail.com)
 
 ---
 
