@@ -1,112 +1,114 @@
 <h1 align="center">Hi there, I'm Abuzar 👋</h1>
 
 <p align="center">
-  🎓 BS Computer Science @ Bahria University Lahore &nbsp;|&nbsp; 📊 Aspiring Data Scientist &nbsp;|&nbsp; 🚀 Builder
+  <b>Machine Learning Engineer</b> &nbsp;|&nbsp; 🎓 Computer Science @ Bahria University Lahore &nbsp;|&nbsp; 🚀 AI Systems & Data Pipelines
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://w3profile.com/LogicBear3593"><img src="https://img.shields.io/badge/W3Profile-04AA6D?style=flat-square&logo=w3schools&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🧠 About Me
+## ⚡ About Me
 
-I'm a CS student diving deep into the world of Data Science — learning how to turn raw data into meaningful insights. Currently leveling up in ML, data analysis, and building AI-powered systems.
+I am a **Machine Learning Engineer** focused on designing end-to-end predictive models, scalable data pipelines, and deployable AI solutions. I bridge the gap between statistical modeling and production software engineering—converting complex raw datasets into high-performance ML systems.
 
-- 🔭 Currently working on **Skylytics** — an AI-powered flight delay prediction system (FYP)
-- 📚 **Learning:** Machine Learning · Data Visualization · Python · SQL · Statistical Analysis
-- 🌱 Following the **CRISP-DM** workflow to build real-world data pipelines
-- 💡 **Interested in:** Predictive Modeling · Data Cleaning · Exploratory Data Analysis (EDA)
+- 🚀 **Current Build:** **Skylytics** — an end-to-end AI flight delay prediction engine powered by XGBoost and deployed via FastAPI.
+- 🛠️ **Core Expertise:** End-to-End ML Pipelines · Feature Engineering · Model Optimization · REST API Deployment · CRISP-DM
+- 🔍 **Technical Focus:** Classification & Regression Models, Predictive Analytics, Vector Search & RAG Architecture.
 - 📍 Based in **Lahore, Pakistan**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+<p align="left">
+  <b>Languages:</b><br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+<p align="left">
+  <b>Machine Learning & Data Engineering:</b><br/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-EC6E2A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" />
+</p>
 
-**Data Science & ML**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-EC6E2A?style=flat-square)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
-
-**Tools & Deployment**
-
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-## 🎯 ML Engineer Learning Path
-
-Currently building toward an ML Engineer skill set following a structured roadmap:
-
-| Stage | Topics | Status |
-|-------|--------|--------|
-| **Foundations** | Python, SQL, Statistics, Linear Algebra | ✅ Done |
-| **Data Wrangling** | Pandas, NumPy, EDA, CRISP-DM | ✅ Done |
-| **Classical ML** | Scikit-learn, XGBoost, KNN, Naïve Bayes, Ensembles, K-Means | ✅ Done |
-| **Model Evaluation** | ROC/AUC, Cross-validation, Impurity Measures, Leaderboards | ✅ Done |
-| **ML Systems** | Pipelines, Feature Engineering, RAG, Vector DBs | 🔄 In Progress |
-| **Deployment** | Streamlit, FastAPI, Streamlit Cloud | 🔄 In Progress |
-| **MLOps** | Model monitoring, retraining, versioning | 📌 Planned |
+<p align="left">
+  <b>Deployment & Developer Tools:</b><br/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
 
 ---
 
-## 🎓 Certifications — W3Schools
+## 🎯 Engineering Capabilities & Roadmap
 
-🏷️ **Profile:** [w3profile.com/LogicBear3593](https://w3profile.com/LogicBear3593)
-
-| Course | Platform | Status |
-|--------|----------|--------|
-| 🐍 Python | W3Schools | ✅ Completed |
-| 🗄️ SQL | W3Schools | ✅ Completed |
-| 📊 Data Science | W3Schools | ✅ Completed |
-| 📈 Statistics | W3Schools | ✅ Completed |
-| 🤖 Machine Learning | W3Schools | ✅ Completed |
-| 🔢 NumPy | W3Schools | 🔄 In Progress |
-| 🐼 Pandas | W3Schools | 🔄 In Progress |
-
-> *(Update statuses above to match what you've actually completed)*
+| Focus Area | Engineering Competencies | Status |
+| :--- | :--- | :---: |
+| **Foundations & Core Math** | Python, SQL, Linear Algebra, Inferential Statistics | ✅ Applied |
+| **Data Wrangling & Pipelines** | Pandas, NumPy, Feature Extraction, EDA, CRISP-DM Methodology | ✅ Applied |
+| **Supervised & Unsupervised ML** | Scikit-learn, XGBoost, Ensembles, KNN, Naïve Bayes, K-Means | ✅ Applied |
+| **Evaluation & Tuning** | Cross-Validation, Hyperparameter Optimization, ROC/AUC, Feature Importance | ✅ Applied |
+| **ML Systems & Architecture** | Production Pipeline Design, Vector Databases, RAG Implementations | 🔄 In Progress |
+| **Model Serving & API Design** | REST API Architecture (FastAPI), Web Interface Deployment (Streamlit) | 🔄 In Progress |
+| **MLOps & Lifecycle** | Model Monitoring, Retraining Pipelines, Artifact Versioning | 📌 Planned |
 
 ---
 
 ## 🚀 Featured Project
 
-### ✈️ Skylytics — Flight Delay Prediction
+### ✈️ [Skylytics — Flight Delay Prediction System](https://github.com/Abuzarr1)
+> *An end-to-end Machine Learning pipeline designed to predict flight delays in real-time.*
 
-> AI-powered system that predicts flight delays using XGBoost.
-
-**Stack:** Python · Scikit-Learn · XGBoost · Pandas · FastAPI
+* **Architecture:** Structured on the CRISP-DM framework, incorporating modular data preprocessing, feature engineering, and robust model evaluation.
+* **Predictive Engine:** Leverages optimized XGBoost classification for precise prediction scoring.
+* **Serving Layer:** Deployed as a scalable REST API using **FastAPI** with an interactive **Streamlit** dashboard.
+* **Stack:** `Python` · `Scikit-Learn` · `XGBoost` · `Pandas` · `FastAPI` · `Streamlit`
 
 ---
 
-## 📈 GitHub Stats
+## 🎓 Verified Certifications
+
+| Specialization | Platform | Status |
+| :--- | :--- | :---: |
+| 🐍 Python Programming | W3Schools | ✅ Completed |
+| 🗄️ SQL & Relational Databases | W3Schools | ✅ Completed |
+| 📊 Data Science Fundamentals | W3Schools | ✅ Completed |
+| 📈 Applied Statistics | W3Schools | ✅ Completed |
+| 🤖 Machine Learning Algorithms | W3Schools | ✅ Completed |
+| 🔢 NumPy & Pandas Pipelines | W3Schools | 🔄 In Progress |
+
+👉 *Verified Credential Profile:* [w3profile.com/LogicBear3593](https://w3profile.com/LogicBear3593)
+
+---
+
+## 📈 Engineering Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abuzarr1&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abuzarr1&theme=tokyo-night&hide_border=true" width="48%" alt="Contribution Graph" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Abuzarr1&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
 </p>
+
+---
+
+## 📫 Connect & Collaborate
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Abuzarr1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://w3profile.com/LogicBear3593"><img src="https://img.shields.io/badge/W3Profile-04AA6D?style=for-the-badge&logo=w3schools&logoColor=white" /></a>
 </p>
 
----
-
-## 📫 Let's Connect
-
-[![W3Schools](https://img.shields.io/badge/W3Schools-04AA6D?style=flat-square&logo=w3schools&logoColor=white)](https://w3profile.com/LogicBear3593)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](#)
-
----
-
-<p align="center"><i>"Every dataset tells a story — I'm learning to read them."</i></p>
+<p align="center"><i>"Transforming complex data architectures into robust, production-ready machine learning systems."</i></p>
